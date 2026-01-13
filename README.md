@@ -8,7 +8,7 @@ A modern LSPosed module to unlock premium features and remove advertisements fro
 - **Ad-Block**: Removes all integrated advertisements.
 - **Privacy Protection**: Disables Firebase Analytics and Crashlytics within Solid Explorer.
 - **Device-ID Protection**: Fakes unique identifiers (Android ID, Serial, etc.) to prevent tracking.
-- **Modern UI**: Stylish 3D Statis app built with Jetpack Compose.
+- **Modern UI**: Stylish 3D Status app built with Jetpack Compose.
 
 ## Installation
 
@@ -17,10 +17,6 @@ A modern LSPosed module to unlock premium features and remove advertisements fro
 3. **Recommended Scope**: Ensure "Solid Explorer" is selected in the module's scope.
 4. Reboot your device (or force stop Solid Explorer).
 5. Open the FuckSolidExplorer app to verify the activation status.
-
-## Usage
-
-Once activated, Solid Explorer will show a license status of **"UNLOCKED BY fzer0x"**. All premium features like cloud storage plugins and customization options will be available immediately.
 
 ## Build
 
@@ -35,3 +31,4 @@ This project is for educational purposes only. If you enjoy Solid Explorer, plea
 
 ---
 **Developed by fzer0x**
+
